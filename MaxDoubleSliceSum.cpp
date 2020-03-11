@@ -1,5 +1,5 @@
-//codibility: maximum slice problem
-//task description: https://app.codility.com/programmers/lessons/9-maximum_slice_problem/max_double_slice_sum/
+//Codibility: maximum slice problem
+//Task description: https://app.codility.com/programmers/lessons/9-maximum_slice_problem/max_double_slice_sum/
 
 #include <iostream>
 #include <stack>
