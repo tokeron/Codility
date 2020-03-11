@@ -1,5 +1,5 @@
-//codibility: Stacks and Queues
-//task description: https://app.codility.com/programmers/lessons/7-stacks_and_queues/brackets/
+//Codility: Stacks and Queues
+//Task description: https://app.codility.com/programmers/lessons/7-stacks_and_queues/brackets/
 
 #include <iostream>
 #include <string>
