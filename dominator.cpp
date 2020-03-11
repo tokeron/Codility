@@ -1,5 +1,5 @@
-//codibility: Leader
-//task description: https://app.codility.com/programmers/lessons/8-leader/dominator/
+//Codility: Leader
+//Task description: https://app.codility.com/programmers/lessons/8-leader/dominator/
 
 #include <iostream>
 #include <stack>
