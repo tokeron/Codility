@@ -1,4 +1,4 @@
-//Codility: Stacks and Queues
+//Codility: Future training
 //Task: https://app.codility.com/programmers/lessons/99-future_training/array_inversion_count/
 
 
